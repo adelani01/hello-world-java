@@ -36,5 +36,8 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("This is emmanuel");
     System.out.println("HI 43 Batch devops");
+    System.out.println("Hello, World");
+    System.out.println("This is emmanuel");
+    System.out.println("HI 43 Batch devops");
   }
 }
